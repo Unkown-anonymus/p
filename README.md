@@ -1,11 +1,11 @@
-<h1 align="center"><b>😈 𝓚𝓐𝓡𝓟𝓘𝓣 𝓢𝓟𝓐𝓜 𝓑𝓞𝓣 😈</b></h1>
+<h1 align="center"><b>😈 𝗜𝗧'𝗦 𝗨𝗡𝗞𝗢𝗪𝗡 𝗔𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦 𝗦𝗣𝗔𝗠 😈</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌 𝐔𝐒𝐄𝐑𝐁𝐎𝐓𝐒 𝐌𝐀𝐃𝐄 ʙʏ ᴋʀɪꜱʜɴᴀ ꜰᴏʀ ʜᴇᴀᴠʏ ꜱᴘᴀᴍᴍᴇʀꜱ </h4>
 
 <p align="center"><a href="https://t.me/Nyhna"><img src="https://telegra.ph/file/8ab4b1f900cb71eaf59be.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP KARPIT SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS OP UNKOWN ANONYMOUS SPAM BOT , That is the greatest pleasure we have !
 
 <details>
 <summary><b>ꜰᴇᴀᴛᴜʀᴇꜱ</b></summary>
@@ -26,11 +26,11 @@
 <br>
 
 #### ꜱᴜᴅᴏ ᴏɴʟʏ 🐉
-- `/spam` - To Start Spam.
-- `/bigspam` - To Start A Big Spam.
-- `/restart` - To Restart The Bot.
-- `/ping` - To Check The Ping.
-- `/update` - To Update The Bot
+- `.spam` - To Start Spam.
+- `.bigspam` - To Start A Big Spam.
+- `.restart` - To Restart The Bot.
+- `.ping` - To Check The Ping.
+- `.update` - To Update The Bot
     
 </details>     
 
@@ -41,10 +41,8 @@
 <summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
 <br>
     
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ɪᴅ](https://my.telegram.org/auth)    
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʜᴀꜱʜ](https://my.telegram.org/auth)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/SessionGeneratorBot)   
-</details>
+-   
+
 
 <details>
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
@@ -77,18 +75,9 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- (https://t.me/DARK_LOVEROP)
+- (https://t.me/Tera_bapp_unkown)
 
 </details>
 
 <details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
-
-# ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/KARPIT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="**https://t.me/The_Soulmates_Of_Group"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/KARPIT_SUPPORT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-
-
-</details>
+<summary><b>sᴜᴘᴘᴏʀᴛ.io
